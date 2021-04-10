@@ -1,11 +1,11 @@
 {
-    "name": "node-mongo-registration-login-api",
+    "name": "photo-server",
     "version": "1.0.0",
-    "description": "NodeJS + MongoDB API for User Management, Authentication and Registration",
+    "description": "Share photos with friends and family.",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/node-mongo-registration-login-api.git"
+        "url": "https://github.com/dannyGreen82/photo-server"
     },
     "scripts": {
         "start": "node ./server.js",

@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString": "mongodb://localhost/node-mongo-registration-login-api",
+    "connectionString": "mongodb://mongo:27018/photo-server",
     "secret": "This Project is protected by a nightmare."
 }
